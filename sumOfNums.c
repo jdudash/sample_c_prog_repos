@@ -11,5 +11,8 @@ int main(int argc, const char * argv[]) {
     
     printf("The sum of the numbers from 1 to 10 is %d.", sum);
     
+    printf("");
+    printf("It appears that my attempt has worked.");
+    
     return 0;
 }
